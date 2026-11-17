@@ -9,7 +9,6 @@
  *              onto the image, so built-in regions line up with the picture.
  * Layers: base <svg> (stage art + map-space highlights inside one camera transform)
  *         over <svg> (cutaway backgrounds and every screen-space overlay)
- * Copyright (c) 2026 the owner of the account heshanilexus@gmail.com. See rights/OWNERSHIP_AND_RIGHTS.txt.
  */
 (function () {
   'use strict';

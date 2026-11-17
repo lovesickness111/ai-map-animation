@@ -92,5 +92,3 @@ Control: per element `"sfx": "flip"` (replace), `"sfx": false` (silence), `"sfxV
 - New highlight style: add to `RSTYLE`. New colour name: add to `COLORS`.
 - New cutaway background: `BG.name = (ctx, b) => svg`.
 
-## Ownership
-Proprietary. Read `rights/OWNERSHIP_AND_RIGHTS.txt` before redistributing, and keep the `rights/` folder in every copy. Border data is Natural Earth (public domain) via world-atlas/us-atlas (ISC); see the licence files in `rights/`.
